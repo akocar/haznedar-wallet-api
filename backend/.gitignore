@@ -7,7 +7,7 @@ target/
 *.log
 
 ### IntelliJ IDEA (IDE Settings) ###
-.idea/
+../.idea/
 *.iml
 *.iws
 out/
