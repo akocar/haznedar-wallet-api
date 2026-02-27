@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd27471e-7ed3-4335-86dc-a5ca0f0ac2ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/me/haznedar/wallet/transaction/entity/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/target/classes/me/haznedar/wallet/HaznedarDigitalWalletApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/target/classes/me/haznedar/wallet/transaction/entity/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/target/classes/me/haznedar/wallet/user/entity/User.class" beforeDir="false" />
-    </list>
+    <list default="true" id="bd27471e-7ed3-4335-86dc-a5ca0f0ac2ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +101,7 @@
       <workItem from="1772212417295" duration="34000" />
       <workItem from="1772212459715" duration="155000" />
       <workItem from="1772212630833" duration="156000" />
-      <workItem from="1772212802773" duration="396000" />
+      <workItem from="1772212802773" duration="698000" />
     </task>
     <servers />
   </component>
