@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd27471e-7ed3-4335-86dc-a5ca0f0ac2ff" name="Changes" comment="" />
+    <list default="true" id="bd27471e-7ed3-4335-86dc-a5ca0f0ac2ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/me/haznedar/wallet/transaction/entity/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/me/haznedar/wallet/HaznedarDigitalWalletApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/me/haznedar/wallet/transaction/entity/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/me/haznedar/wallet/user/entity/User.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +40,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven.haznedar-wallet [clean].executor": "Run",
+    "Maven.haznedar-wallet [compile].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found": "New/updated database configurations found",
+    "Notification.DoNotAsk-DatabaseConfigFileWatcher.found": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -94,7 +102,11 @@
       <updated>1772156682928</updated>
       <workItem from="1772156684299" duration="2092000" />
       <workItem from="1772158802213" duration="7193000" />
-      <workItem from="1772206279696" duration="5032000" />
+      <workItem from="1772206279696" duration="5523000" />
+      <workItem from="1772212417295" duration="34000" />
+      <workItem from="1772212459715" duration="155000" />
+      <workItem from="1772212630833" duration="156000" />
+      <workItem from="1772212802773" duration="396000" />
     </task>
     <servers />
   </component>
