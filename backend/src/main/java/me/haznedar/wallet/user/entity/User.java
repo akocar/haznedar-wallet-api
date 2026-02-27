@@ -5,11 +5,15 @@ import lombok.*;
 
 import java.math.BigDecimal;
 
+/*
+ These are all lombok annotations which makes creates every repetitive entity methods with
+ one corresponding annotation. @Builder makes creation of the object easier.
+*/
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-@ToString
+@Builder
 @Entity
 @Table(name = "users")
 public class User {
@@ -17,9 +21,9 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private int id;
+    private long id;
 
-    @Column(name = "first_Name")
+    @Column(name = "first_name")
     private String firstName;
 
     @Column(name = "last_Name")
